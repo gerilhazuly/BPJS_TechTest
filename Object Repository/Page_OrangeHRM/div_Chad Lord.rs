@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Chad Lord</name>
+   <tag></tag>
+   <elementGuidId>c87872cc-2bd0-411c-93fa-db9f534ed578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69395cba-d7f0-4c2a-9741-9253c31951fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chad Lord</value>
+      <webElementGuid>48366e26-b407-4bab-b608-8aff96436656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table orangehrm-employee-list&quot;]/div[@class=&quot;oxd-table-body&quot;]/div[@class=&quot;oxd-table-card&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border oxd-table-row--clickable&quot;]/div[@class=&quot;oxd-table-cell oxd-padding-cell&quot;]/div[1]</value>
+      <webElementGuid>5cebc1bd-2b34-44ae-84b1-db03ad241721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>e773f1e3-24db-4dd7-843f-3d64066cda0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smith'])[1]/preceding::div[1]</value>
+      <webElementGuid>4ed76452-2a4c-4a33-b8aa-3da8796a8354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::div[14]</value>
+      <webElementGuid>8d755318-71fc-4756-814a-0fb0693a69b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chad Lord']/parent::*</value>
+      <webElementGuid>8cfc24f7-224b-49c7-bb75-5ba389f7ea78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>828e8729-2030-4891-98a3-3f0908bbae78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Chad Lord' or . = 'Chad Lord')]</value>
+      <webElementGuid>9b7b151a-a82e-412f-a4cf-7f63b2985b69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

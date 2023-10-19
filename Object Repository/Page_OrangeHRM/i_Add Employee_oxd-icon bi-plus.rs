@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add Employee_oxd-icon bi-plus</name>
+   <tag></tag>
+   <elementGuidId>50f78e9a-ced3-4766-bce6-eee62dfaca34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div/div[2]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9e1a101a-3c0d-4c52-8eb1-24511e9ec0a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-plus</value>
+      <webElementGuid>6ab54b36-1678-4fb0-986c-f94e569211ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;orangehrm-employee-container&quot;]/div[@class=&quot;orangehrm-employee-image&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-file-div oxd-file-div--active&quot;]/button[@class=&quot;oxd-icon-button oxd-icon-button--solid-main employee-image-action&quot;]/i[@class=&quot;oxd-icon bi-plus&quot;]</value>
+      <webElementGuid>bdbe5818-4c09-448d-a58c-902ebd16f1f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div/div[2]/div/button/i</value>
+      <webElementGuid>882ca957-d3c5-4879-b6e7-004ab8ea5089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/i</value>
+      <webElementGuid>576f23cc-c157-4e86-b147-75b8fcc6de61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

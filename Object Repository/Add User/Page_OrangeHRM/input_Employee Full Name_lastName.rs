@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Employee Full Name_lastName</name>
+   <tag></tag>
+   <elementGuidId>ba0bbb62-fca7-47bf-bff3-d7746cdf7b95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;lastName&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='lastName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8dbab46b-c2c9-4923-a387-7aa328ed5a3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-input oxd-input--focus orangehrm-lastname</value>
+      <webElementGuid>d188b553-d796-4e25-93ff-f07d86c3f22a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>lastName</value>
+      <webElementGuid>3882efad-25cc-4f51-952b-6d87f2ff80f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Last Name</value>
+      <webElementGuid>ec6f9b3b-d4f8-4abb-af04-5bf61d6ad824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;orangehrm-employee-container&quot;]/div[@class=&quot;orangehrm-employee-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group&quot;]/div[@class=&quot;--name-grouped-field&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--focus orangehrm-lastname&quot;]</value>
+      <webElementGuid>e938e743-1233-4066-af40-051a23c29f0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='lastName']</value>
+      <webElementGuid>cbc44361-0da2-412f-a54a-fcaff91b2acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div[2]/div/div/div/div/div[2]/div[3]/div[2]/input</value>
+      <webElementGuid>5a60b1c6-e635-4356-b790-272e861ec961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/input</value>
+      <webElementGuid>66e0a6f4-130f-4fb0-9a98-59a0defb6c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'lastName' and @placeholder = 'Last Name']</value>
+      <webElementGuid>4021a527-71df-4bf5-95a0-26dd3e6dc219</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
